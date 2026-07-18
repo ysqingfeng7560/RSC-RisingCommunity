@@ -6,7 +6,7 @@
 ##### RisingCommunity (RSC) is a developer group focused on code optimization and remixing open-source projects, and it's run by independent developer KingFeng7560.
 ###### E-mail：ysqingfeng7560@gmai.com
 
-#####Our flag is：
+##### Our flag is：
 
 ## Rising Code ，Rising Cool .
 
